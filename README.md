@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-A web-based Library Management System developed using PHP and MySQL that helps users search, issue, and renew books efficiently.
+A web-based Library Management System developed using PHP and MySQL that helps users search, issue, and renew books efficiently. 
 
 ## ✨ Features
 
