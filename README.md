@@ -1,2 +1,20 @@
-# Library-Management-System
-A Library Management System developed using PHP and MySQL that allows users to search books, issue books, renew books, and manage library records efficiently.
+# 📚 Library Management System
+
+## Features
+- User Login & Registration
+- Search Books
+- Issue Books
+- Renew Books
+- Admin Dashboard
+- Book Management
+
+## Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+## Author
+Parth Dobariya
